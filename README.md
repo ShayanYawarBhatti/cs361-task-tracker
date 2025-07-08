@@ -25,11 +25,5 @@ The goal is to build a reliable, usable, and fast Task Tracker that allows users
 - Implement core features: Add task, login, and sorting.
 - Test core functionality.
 
-## Repository Structure
-- `/docs`: Contains project plan documents.
-- `/src`: Will contain source code in future sprints.
-- `README.md`: Project overview and instructions.
-
----
 
 This project will be improved in future sprints with more features and refinements.
